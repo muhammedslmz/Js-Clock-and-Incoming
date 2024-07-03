@@ -1,1 +1,1 @@
-bcb11057b88c9a462954e4a2c6dfa5b61a6b2bba
+![Karşılama ekranı](https://github.com/muhammedslmz/Js-Clock-and-Incoming/assets/108101846/5062d2da-b5fd-468d-86d3-0a07629e92c4)
