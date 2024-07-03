@@ -1,1 +1,1 @@
-![Uploading Karşılama ekranı.PNG…]()
+#![Uploading Karşılama ekranı.PNG…]()
