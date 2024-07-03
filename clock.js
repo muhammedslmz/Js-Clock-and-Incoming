@@ -7,10 +7,10 @@ myName.innerHTML = fullName
 
 let myClock = document.querySelector("#myClock")
 
-function tarihSaat() {
-    var date = new Date() // tarih saati al
+function dateOclock() {
+    var date = new Date() 
     var day =date.toLocaleString('tr-TR', {weekday: 'long'})
-    var time = date.toLocaleTimeString('tr-TR') // tarih ve saati Türkçe olarak al
-    document.getElementById("myClock").innerHTML = time + " "+day; // zaman id'li elemente yazdır
+    var time = date.toLocaleTimeString('tr-TR') 
+    document.getElementById("myClock").innerHTML = time + " "+day; 
 }
-setInterval(tarihSaat, 1000); 
+setInterval(dateOclock, 1000); 
